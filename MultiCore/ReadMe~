@@ -1,0 +1,10 @@
+To run this implementation run the script file by typing the following command on the terminal.
+
+./multicore 5 10 1000 1
+
+where 
+the first argument 5 indicate the dimension of LP to be solved;
+the second argument 10 indicate the number of runs for average readings;
+the third argument 1000 indicate the number of LPs to be solved;
+the last argument 1 indicate the number of negatives on RHS(right-hand-side) of the LP constraints (that determines an LP which has initial basic solution as infeasible)
+
