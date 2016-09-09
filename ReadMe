@@ -1,0 +1,22 @@
+This file containts details of the CUDA project for various types of LP problems described in the paper title "Solving Batch Linear Programs on GPU and Multi-core CPUs", with some basic system requirements to execute the project.
+
+1. Cuda01 -- LP type = "Initial Basic Solution as INFEASIBLE" (implements LPC pivot selection rule WITHOUT Streaming)
+
+2. Cuda02 -- LP type = "Initial Basic Solution as FEASIBLE" (implements LPC pivot selection rule WITHOUT Streaming)
+
+3. Cuda03 -- LP type = "Initial Basic Solution as FEASIBLE" (implements RPC pivot selection rule WITHOUT Streaming)
+
+4. Cuda04 -- LP type = "Initial Basic Solution as FEASIBLE" (implements LPC pivot selection rule WITH Streaming)
+
+5. MultiCore -- Comparison of multi-threaded GLPK with that of sequential GLPK implementation.
+
+
+The complete source code for the above implementation can be found inside each project folder. 
+To learn how to execute the implementation there are separate ReadMe file for each implementation. The ReadMe file is sufix by the project name for e.g., to run the project Cuda01 read the file  "ReadMe-cuda01".
+
+
+
+System Configuration:
+These CUDA implementation (sl 1 to 4) have been implemented in Linux platform. So the executable generated would run on a linux PC with a GPU card installed in it. These implementations compute batched LPs both in CPU using sequential GPLK and on a GPU.
+
+Our MultiCore implementation would also require a Linux PC to execute as our implementation was done in Linux environment.

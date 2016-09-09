@@ -1,0 +1,9 @@
+To run this implementation run the script file by typing the following command on the terminal.
+
+./cuda03 5 10 1000
+
+where 
+the first argument 5 indicate the dimension of LP to be solved;
+the second argument 10 indicate the number of runs for average readings;
+the last argument 1000 indicate the batch-size of LP to be solved.
+
