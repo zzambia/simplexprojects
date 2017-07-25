@@ -1,0 +1,3 @@
+read netlibSIF/BLEND.SIF mps;
+optimize
+quit

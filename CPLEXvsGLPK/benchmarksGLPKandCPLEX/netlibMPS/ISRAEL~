@@ -1,0 +1,3 @@
+read /home/santibrata/matlabscripts/netlib/ISRAEL.SIF mps;
+optimize
+quit

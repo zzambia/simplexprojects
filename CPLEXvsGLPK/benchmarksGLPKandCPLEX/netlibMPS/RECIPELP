@@ -1,0 +1,3 @@
+read netlibSIF/RECIPELP.SIF mps;
+optimize
+quit

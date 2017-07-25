@@ -1,0 +1,3 @@
+read netlibSIF/KB2.SIF mps;
+optimize
+quit

@@ -1,0 +1,3 @@
+read /home/santibrata/matlabscripts/netlib/SCAGR7.SIF mps;
+optimize
+quit

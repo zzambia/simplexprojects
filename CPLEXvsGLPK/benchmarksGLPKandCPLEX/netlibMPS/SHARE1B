@@ -1,0 +1,3 @@
+read netlibSIF/SHARE1B.SIF mps;
+optimize
+quit

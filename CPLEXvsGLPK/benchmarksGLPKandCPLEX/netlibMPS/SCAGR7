@@ -1,0 +1,3 @@
+read netlibSIF/SCAGR7.SIF mps;
+optimize
+quit

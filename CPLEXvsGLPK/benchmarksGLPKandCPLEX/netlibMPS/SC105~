@@ -1,0 +1,3 @@
+read /home/santibrata/matlabscripts/netlib/SC105.SIF mps;
+optimize
+quit

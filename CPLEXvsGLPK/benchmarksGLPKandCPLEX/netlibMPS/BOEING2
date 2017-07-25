@@ -1,0 +1,3 @@
+read netlibSIF/BOEING2.SIF mps;
+optimize
+quit

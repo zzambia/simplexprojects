@@ -1,0 +1,3 @@
+read /home/santibrata/matlabscripts/netlib/BOEING2.SIF mps;
+optimize
+quit

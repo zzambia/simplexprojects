@@ -1,0 +1,3 @@
+read /home/santibrata/matlabscripts/netlib/SHARE1B.SIF mps;
+optimize
+quit
