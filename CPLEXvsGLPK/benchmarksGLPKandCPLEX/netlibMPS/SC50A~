@@ -1,0 +1,3 @@
+read netlibSIF/SC50A.SIF mps;
+optimize
+quit

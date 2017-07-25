@@ -1,0 +1,3 @@
+read netlibSIF/ISRAEL.SIF mps;
+optimize
+quit

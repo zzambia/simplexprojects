@@ -1,0 +1,3 @@
+read /home/santibrata/matlabscripts/netlib/STOCFOR1.SIF mps;
+optimize
+quit

@@ -1,0 +1,3 @@
+read netlibSIF/AFIRO.SIF mps;
+optimize
+quit

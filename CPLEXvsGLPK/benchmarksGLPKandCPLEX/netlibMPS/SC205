@@ -1,0 +1,3 @@
+read netlibSIF/SC205.SIF mps;
+optimize
+quit

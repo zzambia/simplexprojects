@@ -1,0 +1,3 @@
+read /home/santibrata/matlabscripts/netlib/RECIPELP.SIF mps;
+optimize
+quit

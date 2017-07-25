@@ -1,0 +1,4 @@
+read netlibSIF/ADLITTLE.SIF mps;
+optimize
+quit
+

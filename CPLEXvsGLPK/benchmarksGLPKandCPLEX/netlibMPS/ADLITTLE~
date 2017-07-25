@@ -1,0 +1,4 @@
+read /home/santibrata/matlabscripts/netlib/ADLITTLE.SIF mps;
+optimize
+quit
+
